@@ -1,0 +1,1 @@
+Web Scraping desenvolvido em Java e biblioteca Jsoup.
